@@ -1,8 +1,24 @@
-$body-bg: #2980b9;
-$btn-primary-bg: #c0392b;
-$navbar-inverse-brand-color: #c0392b;
-$navbar-inverse-bg: #ecf0f1;
-$navbar-inverse-link-color: #7f8c8d;
-$navbar-inverse-link-hover-color: #c0392b;
-$navbar-inverse-brand-hover-color: #7f8c8d;
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+ 
+$font-family-base:                      "Roboto", sans-serif;
+$body-bg:                               #2980b9;
+$btn-primary-bg:                        #c0392b;
+$navbar-default-brand-color:            #c0392b;
+$navbar-default-bg:                     #ecf0f1;
+$navbar-default-link-color:             #7f8c8d;
+$navbar-default-link-hover-color:       #c0392b;
+$navbar-default-brand-hover-color:      #7f8c8d;
+
+
 @import 'bootstrap';
+
+.navbar {
+        font-family: "Playfair Display", serif;
+}
+.navbar-brand {
+        font-weight:bold;
+}
+.center {
+        text-align: center;
+}
