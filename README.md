@@ -1,5 +1,3 @@
-# One Month Rails 
+# Pinteresting RoR App 
 
-This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
-
-by [Abigail Harmon Phillips](http://harmonphillips.com)
+This is a pinterest-type application clone by [Abigail Harmon Phillips](http://harmonphillips.com).
